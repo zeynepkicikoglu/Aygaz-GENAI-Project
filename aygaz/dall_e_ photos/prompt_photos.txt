@@ -1,0 +1,20 @@
+
+DALL-E DE FOTOĞRAF OLUŞTURMAK İÇİN KULLANDIĞIM PROMPTLAR:
+
+
+yellow_robot.jpeg: a white marble bust of robot on a yellow background, 3d.
+
+technolojic_island.jpeg: A unique photograph of an island surrounded by sea, filled with structures made of highly advanced technology.
+
+broken_glass.jpeg: a broken water glass on a round table, photo, 8K, Canon f1.2, 50mm, sunlight
+
+wood.jpeg: intricate laser cut wood relief sculptures
+
+robot.jpeg: a robot made of analog stereo equipment, digital art
+
+fish.jpeg: one big fish eating many small fish in the coral in the sea
+
+diamond.jpeg: reastic image of a bouquet of flowers made of diamonds
+
+sunset.jpeg: a unique sunset view accompanied by nature
+

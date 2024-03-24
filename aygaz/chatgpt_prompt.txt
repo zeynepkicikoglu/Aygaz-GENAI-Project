@@ -1,0 +1,6 @@
+Sen bir front-end geliştiricisisiniz. "Stok fotoğrafçılığı" adında bir web sitesi tasarlayacaksınız. Bu web sitesi html, css ve javascript için CDN kullanarak Bootstrap çerçevesini kullanacak. Düzen ve stil açısından, site yapısı Twitter bootstrap CSS sınıflarının en son sürümünü de içermelidir. Tüm kodun ayrı çıktılar olarak paylaşmalısın. Ayrıca html yapısında semantik etiketler (header, main, nav, section, article, aside, footer) kullanacaksınız. Ve oluşturacağın bu web sitesi responsive tasarımlı, farklı cihaz ve ekran boyutlarına uyumlu olmalı. Eklenecek fotoğrafların altına like yani kalp emojisi koyun ve kullanıcı o kalbe tıklarsa kalp kırmızı olsun. 
+
+
+
+
+benim istediğim şey şu: websitesi açıldığında 4 fotoğrafı yan yana görebilmek tüm ekrana eşit şekilde yerleşmiş olmaları. ayrıca fotografların köşeleri keskin değil yuvarlak dönüşlü olsun. ve fotoğrafların altında kalp simgesi olsun kalbin içi renksiz olsun ve kullanıcı o kalbe tıkladığında kalp kırmızı olsun.
